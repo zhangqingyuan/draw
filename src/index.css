@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+#root {
+  position: relative;
+  z-index: 1;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #ffd700;
+  margin: 0 0 16px 0;
+}
+
+.ant-btn {
+  border-radius: 4px;
+}
+
+.ant-select-dropdown {
+  background: rgba(0, 0, 0, 0.8) !important;
+}
+
+.ant-select-item {
+  color: #fff !important;
+}
+
+.ant-select-item-option-selected {
+  background: rgba(255, 215, 0, 0.2) !important;
+}
+
+.ant-select-item-option-active {
+  background: rgba(255, 215, 0, 0.1) !important;
+}
+
+.ant-modal {
+  z-index: 1001;
+} 

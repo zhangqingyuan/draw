@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dd1ea7b7.css",
+    "main.js": "/static/js/main.aba242df.js",
+    "static/media/滚动音乐.wav": "/static/media/滚动音乐.e444b5c2e4a71b4e6eaa.wav",
+    "static/media/背景音乐.wav": "/static/media/背景音乐.82b33db09a978333e882.wav",
+    "static/media/bg.jpg": "/static/media/bg.1b28ad651cac40060c32.jpg",
+    "static/media/中奖音乐.wav": "/static/media/中奖音乐.7b66b4b35a454f7353f9.wav",
+    "index.html": "/index.html",
+    "main.dd1ea7b7.css.map": "/static/css/main.dd1ea7b7.css.map",
+    "main.aba242df.js.map": "/static/js/main.aba242df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd1ea7b7.css",
+    "static/js/main.aba242df.js"
+  ]
+}
