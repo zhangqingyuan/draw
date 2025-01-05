@@ -1,3 +1,4 @@
+
 # Lucky Draw Application
 
 A powerful and flexible lottery/drawing application that supports various drawing modes and customizations.
@@ -36,6 +37,3 @@ npm run build
 3. Start the drawing process
 4. Export or save results as needed
 
-## License
-
-MIT 
